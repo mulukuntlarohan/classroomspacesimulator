@@ -1,0 +1,11 @@
+Model Information:
+* title:	Human heart with annotations
+* source:	https://sketchfab.com/3d-models/human-heart-with-annotations-87b2af1ba9c2430e97921c1d54dc7db9
+* author:	eruwen (https://sketchfab.com/eruwen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Human heart with annotations" (https://sketchfab.com/3d-models/human-heart-with-annotations-87b2af1ba9c2430e97921c1d54dc7db9) by eruwen (https://sketchfab.com/eruwen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
