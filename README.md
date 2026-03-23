@@ -25,4 +25,7 @@ Built a user interface with functional buttons (Play, Settings, Quit) and implem
 
 Exported the entire simulation as a WebGL application runnable via a web server.
 
+Here is the demo[demo]https://github.com/user-attachments/assets/6d8d3ce6-c6f6-47a5-babc-2a7554c5e61e
+
+
 
